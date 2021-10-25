@@ -1,0 +1,15 @@
+{
+	"name": "ie-hw1-1",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "git@github.com:iamomiid/ie-hw1-1.git",
+	"author": "Omid Sayfun <seyfanomid@ymail.com>",
+	"license": "MIT",
+	"private": false,
+	"scripts": {
+		"start": "node src/index.js"
+	},
+	"dependencies": {
+		"express": "^4.17.1"
+	}
+}
